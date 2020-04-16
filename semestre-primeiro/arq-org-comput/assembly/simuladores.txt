@@ -1,4 +1,0 @@
-Simuladores:
-- https://hsandmann.github.io/espm.16bits/
-- https://gzsig.io/vm-16bits/
-- https://gzsig.io/vm-24bits/
